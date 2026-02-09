@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadow School</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
+        .menu, .game-screen { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; }
+        .button { margin: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <h1>Welcome to Shadow School</h1>
+        <button class="button" onclick="startGame()">Start Game</button>
+        <button class="button" onclick="loadSettings()">Settings</button>
+        <button class="button" onclick="exitGame()">Exit</button>
+    </div>
+    <div class="game-screen" style="display:none;">
+        <h2>Game in Progress...</h2>
+        <p>Press 'P' to pause, 'R' to resume.</p>
+    </div>
+    <script>
+        function startGame() {
+            document.querySelector('.menu').style.display = 'none';
+            document.querySelector('.game-screen').style.display = 'flex';
+        }
+        function loadSettings() {
+            alert('Settings Loaded!');
+        }
+        function exitGame() {
+            alert('Exiting Game...');
+        }
+    </script>
+</body>
+</html>
