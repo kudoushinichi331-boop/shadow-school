@@ -8,4 +8,10 @@ Khi ánh hoàng hôn tắt lịm 🌅, ngôi trường thân quen bỗng trở t
 🎮 Trải nghiệm nỗi sợ tột cùng tại Shadow School: 📍 Khám phá những bí mật bị chôn giấu dưới lớp bụi thời gian 📜. 📍 Giải mã những câu đố để tìm đường sống sót 🧩. 📍 Đối mặt với những thực thể không thuộc về thế giới này 👻.
 
 Nhớ nhé: Chạy thật nhanh 🏃‍♂️, trốn thật kỹ 🕵️ và... Đừng. Bao. Giờ. Ngoảnh. Mặt. Lại. 🩸
-© Dương-2026 Copyright
+
+© Ziven-2026 Copyright
+
+Link
+
+Facebook:https://www.facebook.com/ziven.dis
+
